@@ -1,4 +1,3 @@
-@'
 # Bhopal Air Quality Risk Predictor
 
 A machine learning pipeline that classifies hourly air quality risk (Low / Moderate / High) for Bhopal, India, using real CPCB/MPPCB monitoring data — plus an interactive Power BI dashboard built on the model's output.

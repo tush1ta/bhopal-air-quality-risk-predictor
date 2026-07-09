@@ -62,6 +62,8 @@ An interactive Power BI dashboard (`Bhopal_Air_Quality_Dashboard.pbix`) visualiz
 - Risk class distribution
 - Model predictions vs. actual risk labels (winter test set)
 
+![AQI Trends Dashboard](images/dashboard_trends.png)
+![Model Results Dashboard](images/dashboard_model_results.png)
 ## Tech Stack
 
 Python (pandas, scikit-learn, matplotlib, seaborn) - Power BI Desktop

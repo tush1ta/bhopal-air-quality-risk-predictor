@@ -67,14 +67,3 @@ An interactive Power BI dashboard (`Bhopal_Air_Quality_Dashboard.pbix`) visualiz
 ## Tech Stack
 
 Python (pandas, scikit-learn, matplotlib, seaborn) - Power BI Desktop
-
-## How to Run
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-python bhopal_air_quality_risk_predictor.py
-```
-
-Update `DATA_DIR` in the script to point to your local copy of `station_hour.csv` and `stations.csv` from the Kaggle dataset above. The script prints EDA/evaluation output to console and saves plots plus `bhopal_air_quality_for_powerbi.csv` for the dashboard.
-
-## Repository Structure
